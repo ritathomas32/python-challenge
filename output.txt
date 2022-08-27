@@ -1,0 +1,7 @@
+Financial Analysis
+---------------------
+Total Months: {total_month}
+Total Revenue: ${net_profit_loss}
+Average Revenue Change: ${revenue_change}
+Greatest Increase in Revenue: Feb-2017 ($-196785)
+Greatest Decrease in Revenue: Feb-2017 ($-196785)
